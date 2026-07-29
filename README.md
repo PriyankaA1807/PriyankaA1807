@@ -194,7 +194,7 @@ Hi 👋, I'm Priyanka Singh
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Priyankasingh1807&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/Priyankasingh1807)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PriyankaA1807&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/PriyankaA1807)
 ---
 
 # 🌐 Connect With Me
