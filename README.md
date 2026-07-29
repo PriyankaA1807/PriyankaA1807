@@ -52,7 +52,7 @@ Hi 👋, I'm Priyanka Singh
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=java,spring"/>
 
 </p>
 
@@ -154,7 +154,7 @@ Hi 👋, I'm Priyanka Singh
 
 ## Computer Science Fundamentals
 
-✔ Data Structures & Algorithms (A2Z)
+✔ Data Structures & Algorithms 
 
 ✔ Object-Oriented Programming
 
@@ -162,7 +162,7 @@ Hi 👋, I'm Priyanka Singh
 
 ✔ Operating Systems
 
-✔ Computer Organization
+✔ Computer Networks
 
 ✔ Design & Analysis of Algorithms
 
@@ -184,15 +184,15 @@ Hi 👋, I'm Priyanka Singh
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Priyankasingh1807&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PriyankaA1807&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyankasingh1807&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaA1807&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyankasingh1807&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaA1807&theme=tokyonight"/>
 
 </p>
 
@@ -202,13 +202,11 @@ Hi 👋, I'm Priyanka Singh
 
 <p align="left">
 
-<a href="https://github.com/Priyankasingh1807"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://github.com/PriyankaA807"><img src="https://skillicons.dev/icons?i=github"/></a>
 
 <a href="https://linkedin.com/in/priyanka-singh-42668b287"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 
 <a href="mailto:personaluse.priyanka@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-
-<a href="https://x.com/PriyankaCodes18"><img src="https://skillicons.dev/icons?i=twitter"/></a>
 
 <a href="https://www.hackerrank.com/priyanka_pic18"><img src="https://skillicons.dev/icons?i=hackerrank"/></a>
 
