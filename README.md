@@ -3,7 +3,7 @@ Hi 👋, I'm Priyanka Singh
 </h1>
 
 <h3 align="center">
-🚀 Software Engineer | Java Backend Developer | Full Stack Developer | AI Engineer
+🚀 Software Engineer | Java Backend Developer | Full Stack Developer | Business/Data Analyst
 </h3>
 
 <p align="center">
@@ -14,15 +14,15 @@ Hi 👋, I'm Priyanka Singh
 
 # 👩‍💻 About Me
 
-🎓 CSBS Graduate
+🎓 Final Yr CSBS Student
 
-💼 Aspiring Software Engineer
+💼 Software Engineer
 
 ❤️ Passionate about Backend Engineering, Distributed Systems and AI
 
 🌱 Currently mastering High-Level System Design, Cloud & AI Engineering
 
-🚀 Love solving DSA problems and building production-ready applications.
+
 
 ---
 
@@ -32,7 +32,7 @@ Hi 👋, I'm Priyanka Singh
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts"/>
 
 </p>
 
