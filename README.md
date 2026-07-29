@@ -182,13 +182,6 @@ Hi 👋, I'm Priyanka Singh
 
 # 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PriyankaA1807&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyankaA1807&layout=compact&theme=tokyonight"/>
-
-</p>
 
 <p align="center">
 
@@ -198,6 +191,10 @@ Hi 👋, I'm Priyanka Singh
 ## 📈 Contribution Graph
 
 [![Priyanka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PriyankaA1807&theme=tokyo-night)](https://github.com/PriyankaA1807)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Priyankasingh1807&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/Priyankasingh1807)
 ---
 
 # 🌐 Connect With Me
