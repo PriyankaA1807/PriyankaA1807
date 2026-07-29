@@ -67,7 +67,8 @@ Hi 👋, I'm Priyanka Singh
 
 ## Spring Ecosystem
 
-✔ Spring Boot   ✔ Spring MVC   ✔ Spring Data JPA   ✔ Hibernate   ✔ REST APIs  
+✔ Spring Boot   ✔ Spring MVC   ✔ Spring Data JPA   ✔ Hibernate   ✔ REST APIs
+
 ✔ Spring Security   ✔ JWT Authentication   ✔ OAuth2   ✔ Spring AI
 
 ---
@@ -93,6 +94,7 @@ Hi 👋, I'm Priyanka Singh
 </p>
 
 ✔ Docker   ✔ Docker Compose   ✔ CI/CD   ✔ GitHub Actions   ✔ Jenkins  
+
 ✔ Kubernetes Basics   ✔ Cloud Fundamentals   ✔ Linux
 
 ---
