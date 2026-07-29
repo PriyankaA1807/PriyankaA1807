@@ -58,26 +58,14 @@ Hi 👋, I'm Priyanka Singh
 
 ### Java Ecosystem
 
-- Core Java
-- Java 8
-- Java 17
-- JDBC
-- Maven
-- Gradle
+✔ Core Java   ✔ Java 8   ✔ Java 17   ✔ JDBC   ✔ Maven   ✔ Gradle
 
 ---
 
 ## Spring Ecosystem
 
-- Spring Boot
-- Spring MVC
-- Spring Data JPA
-- Hibernate
-- REST APIs
-- Spring Security
-- JWT Authentication
-- OAuth2
-- Spring AI
+✔ Spring Boot   ✔ Spring MVC   ✔ Spring Data JPA   ✔ Hibernate   ✔ REST APIs  
+✔ Spring Security   ✔ JWT Authentication   ✔ OAuth2   ✔ Spring AI
 
 ---
 
@@ -89,12 +77,7 @@ Hi 👋, I'm Priyanka Singh
 
 </p>
 
-- SQL
-- MySQL
-- Database Design
-- Query Optimization
-- Redis
-- Caching
+✔ SQL   ✔ MySQL   ✔ Database Design   ✔ Query Optimization   ✔ Redis   ✔ Caching
 
 ---
 
@@ -106,49 +89,28 @@ Hi 👋, I'm Priyanka Singh
 
 </p>
 
-- Docker
-- Docker Compose
-- CI/CD
-- GitHub Actions
-- Jenkins
-- Kubernetes Basics
-- Cloud Fundamentals
-- Linux
+✔ Docker   ✔ Docker Compose   ✔ CI/CD   ✔ GitHub Actions   ✔ Jenkins  
+✔ Kubernetes Basics   ✔ Cloud Fundamentals   ✔ Linux
 
 ---
 
 ## Software Engineering
 
-✔ OOP
+✔ OOP   ✔ Design Patterns   ✔ REST API Development   ✔ Microservices
 
-✔ Design Patterns
-
-✔ REST API Development
-
-✔ Microservices
-
-✔ System Design
-
-✔ Logging & Monitoring
-
-✔ Software Engineering Principles
+✔ System Design   ✔ Logging & Monitoring   ✔ Software Engineering Principles
 
 ---
 
 ## Testing
 
-- JUnit
-- Mockito
+✔ JUnit   ✔ Mockito
 
 ---
 
 ## AI
 
-- AI Integration
-- LLM Integration
-- Spring AI
-- Generative AI Basics
-- Agentic AI Basics
+✔ AI Integration   ✔ LLM Integration   ✔ Spring AI   ✔ Gen AI Basics   ✔ Agentic AI Basics
 
 ---
 
@@ -162,7 +124,7 @@ Hi 👋, I'm Priyanka Singh
 
 ## Analytics
 
-- Excel  - Power BI  - PowerPoint
+✔ Excel  ✔ Power BI  ✔ PowerPoint
 
 ---
 
@@ -182,16 +144,19 @@ Hi 👋, I'm Priyanka Singh
 
 # 🌐 Connect With Me
 
-<p align="left">
-
-<a href="https://github.com/PriyankaA807"><img src="https://skillicons.dev/icons?i=github"/></a>
-
-<a href="https://linkedin.com/in/priyanka-singh-42668b287"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-
-<a href="mailto:personaluse.priyanka@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-
-<a href="https://www.hackerrank.com/priyanka_pic18"><img src="https://skillicons.dev/icons?i=hackerrank"/></a>
-
+<p align="center">
+  <a href="https://github.com/PriyankaA1807" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/priyanka-singh-42668b287" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:personaluse.priyanka@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
+  </a>
+  <a href="https://www.hackerrank.com/priyanka_pic18" target="_blank">
+    <img src="https://skillicons.dev/icons?i=hackerrank" height="45" alt="HackerRank"/>
+  </a>
 </p>
 
 ---
@@ -204,6 +169,6 @@ Hi 👋, I'm Priyanka Singh
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=Priyankasingh1807&color=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=PriyankaA1807&color=blue&style=flat)
 
 </p>
