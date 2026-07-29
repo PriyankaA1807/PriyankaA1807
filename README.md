@@ -35,7 +35,7 @@ Hi 👋, I'm Priyanka Singh
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=java,python,js,ts"/>
+<img src="https://skillicons.dev/icons?i=java,python"/>
 
 </p>
 
@@ -45,7 +45,7 @@ Hi 👋, I'm Priyanka Singh
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,js,ts"/>
 
 </p>
 
