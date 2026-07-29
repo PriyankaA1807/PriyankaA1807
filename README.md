@@ -10,7 +10,7 @@ Hi 👋, I'm Priyanka Singh
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+Developer;Full+Stack+Developer;Microservices+%7C+Docker+%7C+Kubernetes;DSA+%7C+System+Design;AI+Integration+%7C+LLMs+%7C+Spring+AI;Open+Source+Learner;Always+Building+Something+Awesome!" />
 </p>
 <p align="center">
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="350">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTE1ajU2bzM2cDR1MDFzdjE2N3Q2bm1ubGh2b2YycGhjNDNoMnpscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="350">
 </p>
 ---
 
