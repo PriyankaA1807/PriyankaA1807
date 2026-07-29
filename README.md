@@ -154,29 +154,15 @@ Hi 👋, I'm Priyanka Singh
 
 ## Computer Science Fundamentals
 
-✔ Data Structures & Algorithms 
+✔ Data Structures & Algorithms   ✔ Object-Oriented Programming  ✔ DBMS  ✔ Operating Systems  ✔ Computer Networks
 
-✔ Object-Oriented Programming
-
-✔ DBMS
-
-✔ Operating Systems
-
-✔ Computer Networks
-
-✔ Design & Analysis of Algorithms
-
-✔ Software Engineering
-
-✔ Linux & Unix Commands
+✔ Design & Analysis of Algorithms  ✔ Software Engineering  ✔ Linux & Unix Commands
 
 ---
 
 ## Analytics
 
-- Excel
-- Power BI
-- PowerPoint
+- Excel  - Power BI  - PowerPoint
 
 ---
 
@@ -192,9 +178,6 @@ Hi 👋, I'm Priyanka Singh
 
 [![Priyanka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PriyankaA1807&theme=tokyo-night)](https://github.com/PriyankaA1807)
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=PriyankaA1807&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/PriyankaA1807)
 ---
 
 # 🌐 Connect With Me
