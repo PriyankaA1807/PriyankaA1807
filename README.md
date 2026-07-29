@@ -12,6 +12,7 @@ Hi 👋, I'm Priyanka Singh
 <p align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTE1ajU2bzM2cDR1MDFzdjE2N3Q2bm1ubGh2b2YycGhjNDNoMnpscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="350">
 </p>
+
 ---
 
 # 👩‍💻 About Me
