@@ -85,7 +85,7 @@ Hi 👋, I'm Priyanka Singh
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mysql,sql"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
 </p>
 
@@ -195,7 +195,9 @@ Hi 👋, I'm Priyanka Singh
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaA1807&theme=tokyonight"/>
 
 </p>
+## 📈 Contribution Graph
 
+[![Priyanka's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PriyankaA1807&theme=tokyo-night)](https://github.com/PriyankaA1807)
 ---
 
 # 🌐 Connect With Me
